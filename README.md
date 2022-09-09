@@ -1,5 +1,22 @@
-Projetos desenvolvidos durante o curso Explorer 2022 do Rocketseat.
+# Projetos do Curso Explorer da Rocketseat # 🚀 
 
-1. Recriando layout site: https://recriandolayout.netlify.app/
 
-2. Social tree site: https://amandaoliveira-socialtree.netlify.app/
+Repositório para colocar os projetos que desenvolverei durante o curso Fullstack que estou fazendo na Rocketseat.
+
+
+
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS.
+
+
+## PROJETOS
+
+## 1. Recriando layout
+
+ site: https://recriandolayout.netlify.app/
+
+## 2. Social tree
+
+ site: https://amandaoliveira-socialtree.netlify.app/
