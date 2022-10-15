@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{ 
+   font-size: 62,5%;
+   
+}
+
+body {
+   font-size: 1.6rem;
+}
+
+.page {
+  margin: 0 auto 10rem;
+  max-width: 38.4rem;
+ 
+}
+
+header {
+  background-color: hsl(218, 17%, 62%);
+  text-align: center;
+ 
+}
+
+.logo {
+  width: 13.7rem;
+  margin: 2rem auto;
+}
+
+header h1 {
+  background-color: hsl(275, 18%, 79%);
+
+  font-size: 4rem;
+  font-family: 'Staatliches';
+  font-weight: normal;
+  line-height: 3.4rem;
+  letter-spacing: 0.05em;
+  color: #FFFFFF;
+  padding:   0.8rem 0 ;
+  margin-bottom: 3.2rem;
+}
+
+header p {
+  color: hsl(274, 84%, 12%);
+  font-size: 1.3rem;
+  font-family: 'Palanquin';
+  line-height: 1.5rem;
+  background: hsla(233, 100%, 97%, 1);
+  padding: 4rem 2rem ;
+}
+
+main {
+  display: grid;
+  gap: 3.6rem;
+ 
+  background: hsla(233, 100%, 97%, 1);
+}
+
+main img {
+  width: 100%;
+  height: auto;
+}
+
+.card {
+  position: relative;
+}
+
+.card h2 {
+  position: absolute;
+  top: 1.6rem;
+  right: 1.6rem;
+  text-transform: uppercase;
+
+  color: #4A4E69;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  line-height: 34px;
+
+  background: #FEEAFA;
+  border-radius: 2rem;
+  padding: 0.4rem 2rem;
+}
+
