@@ -1,7 +1,11 @@
+:root {
+  font-size: 62.50%;
+}
+
 body{
   margin: 0;
   padding: 0;
-  font-size: 62,50%;
+  font-size: 1.6rem;
   background-color: rgb(48, 47, 61);
   font-family: 'Roboto', sans-serif;
   color: rgba(12, 247, 211, 0.842);
@@ -12,18 +16,18 @@ section {
   flex-direction: column;
   align-items: center; 
   text-align: center;
-  margin-top: 20px;
+  margin-top: 2rem;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 50rem) {
  section {
-  margin-top: 100px;
+  margin-top: 10rem;
  }   
 }
 
-@media (max-width:375px) {
+@media (max-width:37.5rem) {
   section {
-    margin-top: 40px;
+    margin-top: 4rem;
   }   
 }
 
@@ -42,8 +46,8 @@ main a {
   justify-content: center;
   border: rgb(187, 153, 221) solid 1px;
   margin-bottom: 15px;
-  width: 210px;
-  height: 25px;
+  width: 21rem;
+  height: 2.5rem;
   border-radius: 10px;
   text-decoration: none;
   font-size: 1.2rem;
@@ -59,12 +63,12 @@ main a:hover {
 }
 
 footer  {
-margin-top: 50px;
+margin-top: 5rem;
 display: flex;
-gap: 20px;
+gap: 2rem;
 }
   
 footer a:hover {
   transition:  2s all;
-  padding: 10px;
+  padding: 1rem;
 }
