@@ -1,34 +1,26 @@
-# Projetos do Curso Explorer da Rocketseat # 🚀 
+# Rocketseat Explorer Program Projects 🚀 
+
+Repository created to put the projects I developed during this Fullstack training.
+
+## 🛠️ Tecnology
+
+Project developed with these technologies:
+- HTML e CSS
+- Javascript
+- Git e Github
+
+## Projects
 
 
-Repositório para colocar os projetos que desenvolverei durante o curso Fullstack que estou fazendo na Rocketseat.
-
-
-
-
-
-## 🛠 Habilidades
-Javascript, HTML, CSS.
-
-
-## PROJETOS
-
-## 1. Recriando layout
-
- site: https://recriandolayout.netlify.app/
-
-## 2. Social tree
-
- site: https://amandaoliveira-socialtree.netlify.app/
-
-## 3. Formulário stage 3
-
- site: https://html-css-formulario.netlify.app/
+* [**Recreating layout**](https://recriandolayout.netlify.app/)
+* [**Social tree**](https://amandaoliveira-socialtree.netlify.app/)
+* [**Form stage 3**](https://html-css-formulario.netlify.app/)
+* [**Mobile first stage 3**](https://mobilefirst-stage3.netlify.app/)
+* [**Space cream**](https://space-cream-amandatec.netlify.app/)
  
- ## 4. Mobile first stage 3
+ ##  Contact me
 
- site: https://mobilefirst-stage3.netlify.app/
+ <a href="https://www.linkedin.com/in/amanda-oliveira-20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
+ <a href="http://discordapp.com/users/Amandatec#4699" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-## 5. Space cream
-
- site: https://space-cream-amandatec.netlify.app/
+ Made by [**Amandatec**](https://www.linkedin.com/in/amanda-oliveira-20/">)
